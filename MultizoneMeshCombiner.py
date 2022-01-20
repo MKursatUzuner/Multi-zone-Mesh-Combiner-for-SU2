@@ -4,7 +4,6 @@ Created on Tue Jan 18 20:48:20 2022
 
 @author: M. Kursat Uzuner
 """
-import numpy as np
 import os
 
 print('Please enter the zone number\n')
