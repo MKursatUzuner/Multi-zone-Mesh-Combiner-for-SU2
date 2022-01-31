@@ -8,9 +8,9 @@ Example;
 _Please enter the zone number_
 
 _3_
-_Please enter the name for the combined mesh file with its extension._
 
-_If it does not exist, it will be created_
+_Please enter the name for the combined mesh file with its extension.
+If it does not exist, it will be created_
 
 _total.su2_
 
