@@ -5,7 +5,7 @@ Run the python script in the directory your mesh files are located and follow th
 
 Example;
 
-_Please enter the zone number
+_Please enter the zone number\n
 3
 Please enter the name for the combined mesh file with its extension.
 If it does not exist, it will be created
