@@ -5,26 +5,26 @@ Run the python script in the directory your mesh files are located and follow th
 
 Example;
 
-_Please enter the zone number
+_Please enter the zone number_
 
-_3
-_Please enter the name for the combined mesh file with its extension.
+_3_
+_Please enter the name for the combined mesh file with its extension._
 
-_If it does not exist, it will be created
+_If it does not exist, it will be created_
 
-_total.su2
+_total.su2_
 
-_Please enter the name of the Zone 1 mesh file with its extension;
+_Please enter the name of the Zone 1 mesh file with its extension;_
 
-_zone1.su2
+_zone1.su2_
 
-_Please enter the name of the Zone 2 mesh file with its extension;
+_Please enter the name of the Zone 2 mesh file with its extension;_
 
-_zone2.su2
+_zone2.su2_
 
-_Please enter the name of the Zone 3 mesh file with its extension;
+_Please enter the name of the Zone 3 mesh file with its extension;_
 
-_zone3.su2
+_zone3.su2_
 
 _Combined mesh file creation is SUCCESFUL!_
 
