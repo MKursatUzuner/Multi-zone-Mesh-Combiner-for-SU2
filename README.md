@@ -16,15 +16,15 @@ _total.su2_
 
 _Please enter the name of the Zone 1 mesh file with its extension;_
 
-_zone1.su2_
+_exampleZone1.su2_
 
 _Please enter the name of the Zone 2 mesh file with its extension;_
 
-_zone2.su2_
+_exampleZone2.su2_
 
 _Please enter the name of the Zone 3 mesh file with its extension;_
 
-_zone3.su2_
+_exampleZone3.su2_
 
 _Combined mesh file creation is SUCCESFUL!_
 
